@@ -1,0 +1,15 @@
+{
+  "name": "joe-quiz-bot",
+  "version": "1.0.0",
+  "description": "Joe Quiz Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.1",
+    "lowdb": "^1.0.0"
+  }
+}
